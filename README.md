@@ -1,3 +1,4 @@
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliaa80&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa80&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aliaa80&show_icons=true&count_private=true&theme=githubdark&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa80&langs_count=8&layout=compact&theme=highcontrast&hide_border=false" height="192px"/></a>
+</div>
