@@ -5,4 +5,4 @@
 <div align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aliaa80&theme=github-dark-blue&hide_border=false"/>
 </div>
-![](https://komarev.com/ghpvc/?username=aliaa80)
+![](https://komarev.com/ghpvc/?username=aliaa80&label=Profile+views+since+2022+Jul+09)
