@@ -1,9 +1,9 @@
-# About me
-Hi, I'm Ali Ansari and I'm 21.
+### Hi 👋, I'm Ali
+This github accounts belongs to Ali Ansari and he's 21.
 
-I study computer engineering at Amirkabir university of technology.
+He studies computer engineering at Amirkabir university of technology.
 
-I'm interested in Machine Learning and Deep Learning and Front-End developing
+He's interested in Machine Learning and Deep Learning and Front-End developing
 # Statistics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aliaa80&show_icons=true&count_private=true&theme=github_dark&hide_border=false" height="192px"/></a>
