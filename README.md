@@ -1,6 +1,8 @@
 # About me
-Hi, I'm Ali and I'm 21.
+Hi, I'm Ali Ansari and I'm 21.
+
 I study computer engineering at Amirkabir university of tecknology.
+
 I'm interested in Machine Learning and Deep Learning and Front-End developing
 # Statistics
 <div align="center">
