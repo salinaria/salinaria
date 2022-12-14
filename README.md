@@ -1,3 +1,7 @@
+# About me
+Hi, I'm Ali and I'm 21. I study computer engineering at Amirkabir university of tecknology.
+I'm interested in Machine Learning and Deep Learning and Front-End developing
+# Statistics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aliaa80&show_icons=true&count_private=true&theme=github_dark&hide_border=false" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaa80&langs_count=8&layout=compact&theme=github_dark&hide_border=false" height="192px"/></a>
