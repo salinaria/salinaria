@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Ali
-This github accounts belongs to Ali Ansari and he's 21.
+This github account belongs to Ali Ansari and he's 21.
 
 He studies computer engineering at Amirkabir university of technology.
 
