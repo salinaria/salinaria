@@ -1,12 +1,13 @@
 # Hi 👋, I'm Ali
-B.Sc student at computer engineering of Amirkabir university of technology.
+🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
 
 Interested in Machine Learning and Deep Learning and Front-End developing
+
 <a href="https://www.linkedin.com/in/aliansari80/">
   <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-<a href="https://www.instagram.com/a.ansari80/">
-  <img align="left" alt="Ali's Instagram" width="22px" src="@/../assests/img/social/insta.png" />
-</a>
+
+
+[![](https://img.shields.io/badge/-a.ansari3103@gmail.com-black?style=flat-circle&logo=gmail)](mailto:mohamadchoupan80@gmail.com)
 
 # Statistics
 [![](https://visitcount.itsvg.in/api?id=salinaria&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
