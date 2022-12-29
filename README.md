@@ -7,7 +7,7 @@ Interested in Machine Learning and Deep Learning and Front-End developing
   <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 
-[![](https://img.shields.io/badge/-a.ansari3103@gmail.com-black?style=flat-circle&logo=gmail)](mailto:mohamadchoupan80@gmail.com)
+[![](https://img.shields.io/badge/-a.ansari3103@gmail.com-black?style=flat-circle&logo=gmail)](mailto:a.ansari3103@gmail.com)
 
 # Statistics
 [![](https://visitcount.itsvg.in/api?id=salinaria&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
