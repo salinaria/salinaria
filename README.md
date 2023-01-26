@@ -1,4 +1,11 @@
 # Hi 👋, I'm Ali
+
+
+<p align="center">
+  <img src="https://github.com/salinaria/salinaria/blob/main/bernard.gif?raw=true" alt="Logo" />
+</p>
+
+
 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
 
 Interested in Machine Learning and Deep Learning and Front-End developing
@@ -29,3 +36,4 @@ Interested in Machine Learning and Deep Learning and Front-End developing
 <div align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salinaria&theme=github-dark-blue&hide_border=false"/>
 </div>
+  
