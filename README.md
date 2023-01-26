@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/salinaria/salinaria/blob/main/bernard.gif?raw=true" alt="Logo" />
+  <img src="https://github.com/salinaria/salinaria/blob/main/logo.gif?raw=true" alt="Logo" />
 </p>
 
 
