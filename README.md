@@ -9,6 +9,14 @@ Interested in Machine Learning and Deep Learning and Front-End developing
 
 [![](https://img.shields.io/badge/-a.ansari3103@gmail.com-black?style=flat-circle&logo=gmail)](mailto:a.ansari3103@gmail.com)
 
+# 	:grin: Ali will be happy if you star his project
+<div align = center>
+
+[![Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=salinaria&repo=Ezafe-recognition&theme=github_dark)](https://github.com/salinaria/Ezafe-recognition)
+
+</div>
+
+
 # Statistics
   
 <div align="center">
