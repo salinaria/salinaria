@@ -8,14 +8,6 @@
 Interested in Machine Learning and Deep Learning and Front-End developing
 
 
-## 	:grin: Ali would be happy if you star his project
-<div align = center>
-
-[![Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=salinaria&repo=Ezafe-recognition&theme=github_dark)](https://github.com/salinaria/Ezafe-recognition)
-
-</div>
-
-
 # Statistics
   
 <div align="center">
