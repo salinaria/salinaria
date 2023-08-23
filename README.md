@@ -5,7 +5,7 @@
 
 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
 
-Interested in Machine Learning and Deep Learning and Front-End developing
+Interested in NLP, Deep Learning and Machine Learning
 
 
 # Statistics
