@@ -3,9 +3,9 @@
 </p>
 
 
-🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
+:office:Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
 
-Interested in NLP, Deep Learning and Machine Learning
+:pushpin: Interested in :beer:NLP :pizza:Deep Learning :hamburger:Machine Learning
 
 
 # Statistics
